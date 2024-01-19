@@ -1,1 +1,1 @@
-# Mad1ProjectBootcamp
+# Mad 1 Project Bootcamp
